@@ -59,7 +59,8 @@ h2 {
 div {
   display: flex;
   justify-content: space-around;
-}
+  padding: 0 20%
+;}
 
 #search:hover, #country-name:hover {
   cursor: pointer;
